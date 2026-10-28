@@ -1,7 +1,7 @@
 # 🎸 Guitar Inventory System — Object-Oriented Specification Pattern Catalog
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:042F2E,50:0F766E,100:2DD4BF&customColorList=042F2E,0F766E,2DD4BF&height=220&section=header&text=Guitar%20Inventory%20System&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Object-Oriented%20Design%20Patterns%20%26%20Polymorphic%20Catalog%20Search%20Engine&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Guitar Inventory System Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:042F2E,50:0F766E,100:2DD4BF&customColorList=042F2E,0F766E,2DD4BF&height=220&section=header&text=Guitar%20Inventory%20System&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Object-Oriented%20Design%20Patterns%20and%20Polymorphic%20Catalog%20Search%20Engine&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Guitar Inventory System Banner" />
 </p>
 
 <p align="center">
